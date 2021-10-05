@@ -65,9 +65,6 @@ def vitoria():
         exit()
 
 
-
-
-
 jogo()
 contador = 0
 while True:
