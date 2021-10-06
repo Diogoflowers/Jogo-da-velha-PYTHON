@@ -1,2 +1,2 @@
-# Jogo-da-velha-PYTHON
+# Jogo-da-velha
 LÓGICA DE PROGRAMAÇÃO EM PYTHON
